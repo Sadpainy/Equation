@@ -1,4 +1,4 @@
-# Equation.cpp
+# Equation Drug
 
 ## What This Is
 
